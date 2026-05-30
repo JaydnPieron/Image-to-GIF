@@ -1,0 +1,7 @@
+# Ignore build and distribution artifacts
+build/
+dist/
+
+# Python common ignores
+__pycache__/
+*.py[cod]
